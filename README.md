@@ -1,4 +1,4 @@
-# Article Sharing
+# Git practice
 
 ## Link to Article
 
