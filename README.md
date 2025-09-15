@@ -18,4 +18,4 @@ As a future Software Engineer, I force myself to disect techniques to see the st
 These steps of approach can be helpful in a job interview. I found it interesting to read and I learned how booking systems work in a engineering aspect.
 
 ## Comment by Ivan Wang
-Very insightful article, Harrison. I think it truly helpful for preparing my job interview!
+Very insightful article, which clearly gives an overview on how software engineering applied in real-world problem. And I think your self-reflection truly helpful for preparing my job interview! 
