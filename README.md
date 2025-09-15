@@ -16,3 +16,6 @@ As a future Software Engineer, I force myself to disect techniques to see the st
 3. It shows how to increase the robustness of this system.
 
 These steps of approach can be helpful in a job interview. I found it interesting to read and I learned how booking systems work in a engineering aspect.
+
+## Comment by Ivan Wang
+Very insightful article, Harrison. I think it truly helpful for preparing my job interview!
